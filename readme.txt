@@ -1,4 +1,4 @@
 Git is a distribute version control system.
 Git is free software distributed the GPL.
 Git is an effective software.
-Git is different to github which is a convenient stage.
+Git is different to github.
