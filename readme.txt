@@ -4,3 +4,4 @@ Git is an effective software.
 Git is different to github.
 Creating a new branch is quick.
 Creating a new branch is quick.
+Do learn git is difficult?
