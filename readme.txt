@@ -5,8 +5,4 @@ Git is different to github.
 Creating a new branch is quick.
 Creating a new branch is quick.
 Hello github.
-<<<<<<< HEAD
 Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
